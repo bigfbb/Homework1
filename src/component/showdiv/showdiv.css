@@ -1,0 +1,15 @@
+.showDiv{
+    width: 500px;
+    height: 150px;
+    stroke: rgb(178, 21, 100);
+    background-color: rgb(234, 215, 235);
+    padding: 1% ;
+    border-radius: 10px 10px 10px 20px;
+    margin-left: 20%;
+    margin-bottom: 1%;
+    display: flex;
+    flex-direction: column;
+    font-size: 10px;
+    align-items: center;
+
+}

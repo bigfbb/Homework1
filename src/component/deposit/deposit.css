@@ -1,0 +1,17 @@
+.dDiv{
+    width: 500px;
+    height: 150px;
+    stroke: rgb(107, 178, 21);
+    background-color: rgb(188, 230, 222);
+    display: flex;
+    align-items: center;
+    padding: 1% ;
+    border-radius: 10px 10px 20px ;
+    margin-bottom: 1%;
+
+}
+input{
+width: 50%;
+border-radius: 20px;
+margin:  50% auto;
+}

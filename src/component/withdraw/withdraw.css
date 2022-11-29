@@ -1,0 +1,13 @@
+.wDiv{
+    width: 500px;
+    height: 150px;
+    stroke: rgb(178, 21, 100);
+    background-color: rgb(219, 203, 188);
+    display: flex;
+    align-items: center;
+    padding: 1% ;
+    border-radius: 10px 10px 10px 20px;
+    margin-left: 55%;
+    margin-bottom: 1%;
+
+}
